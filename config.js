@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'thế mình làm ny nhau nhaaaaa :3.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100074061462300'
+}
